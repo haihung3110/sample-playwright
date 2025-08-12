@@ -1,0 +1,12 @@
+export enum Wait {
+    MAXIMUM = 360000,
+    VERY_LONG = 120000,
+    LONG = 60000,
+    SHORT = 30000,
+    LOADING = 10000,
+    LISTING_LIVE = 8000,
+    REFRESH = 2000,
+    DELAY = 1000,
+    VERY_SHORT = 500,
+    MINIMUM = 100,
+}
