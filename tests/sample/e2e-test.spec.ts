@@ -27,6 +27,7 @@ test.describe('TEST TITLE', async () => {
              */
             await factory.baseStep.gotoHomePage("https://example.com")
             console.log("Day la doan update test")
+            console.log("Day la doan update test 2222")
         })
     })
 })
