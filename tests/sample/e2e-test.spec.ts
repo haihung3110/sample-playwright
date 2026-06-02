@@ -26,6 +26,7 @@ test.describe('TEST TITLE', async () => {
              * GO TO baseTest.ts and see all the 'factory...' options available to you
              */
             await factory.baseStep.gotoHomePage("https://example.com")
+            console.log("Day la doan update test")
         })
     })
 })
